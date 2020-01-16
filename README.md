@@ -1,5 +1,3 @@
-# AngularProject
-
 ## Requirements to work with angular: 
 
 - Angular requires Node.js version 10.9.0 or later.

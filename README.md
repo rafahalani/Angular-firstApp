@@ -1,3 +1,5 @@
+
+
 ## Requirements to work with angular: 
 
 - Angular requires Node.js version 10.9.0 or later.
@@ -6,7 +8,7 @@
 
 ## Start learning Angular: https://angular.io/start   
 
-// following the origin website is the best advice I can pass to any junior developer it has all the details that can be used to learn this new technology! It has all the details it has the latest version and it has a lot to practice like basic projects!
+ following Angular website tutorials is the best advice I can pass to any junior developer it has all the details that can be used to learn this new technology! Where you can practice your first Angular projects!
 I learned that from days of following the wrong tutorials!
 
 

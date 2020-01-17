@@ -1,4 +1,4 @@
-           ![alt text](https://github.com/rafahalani/Angular-firstApp/blob/master/angularlogo.png)
+ ![alt text](https://github.com/rafahalani/Angular-firstApp/blob/master/angularlogo.png)
 
   # Welcome to Angular workshop
 

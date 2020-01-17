@@ -40,7 +40,7 @@ cd my-app ng serve --open
 
 # Components
 
-	Components define areas of responsibility in the user interface, or UI, that let you reuse sets of UI functionality.
+	* Components define areas of responsibility in the user interface, or UI, that let you reuse sets of UI functionality.
 	
 
 	A component consists of three things:
@@ -48,7 +48,8 @@ cd my-app ng serve --open
 
 		-An HTML template: that determines the UI.
 		
-		-Component-specific styles: that define the look and feel.
+		-Component-specific styles: that define the look and feel. *
+    
 
 ### To generate new component with CLI
 - ng generate component <name> 

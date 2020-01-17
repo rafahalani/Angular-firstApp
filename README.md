@@ -1,4 +1,4 @@
-[https://github.com/rafahalani/Angular-firstApp/blob/master/angularlogo.png]
+![https://github.com/rafahalani/Angular-firstApp/blob/master/angularlogo.png]
   # Welcome to Angular workshop
 
 ## Requirements to work with angular: 

@@ -1,7 +1,6 @@
- ![alt text](https://github.com/rafahalani/Angular-firstApp/blob/master/angularlogo.png)
 
   # Welcome to Angular workshop
-
+ ![alt text](https://github.com/rafahalani/Angular-firstApp/blob/master/angularlogo.png)
 ## Requirements to work with angular: 
 
 - Angular requires Node.js version 10.9.0 or later.
